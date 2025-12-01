@@ -39,7 +39,9 @@ Jetpack Compose／MVI・MVVM／Clean Architectureを中心に、UI設計から�
 - **LG U+ スマートホーム**（2023.04–2023.12）  
   CCTV新モデル対応UI、横画面対応、4画面マルチビューを実装。
 
----
+- 大学生向けAndroid開発インターン（教育担当メンター）（2022.11–2023.02）  
+  大学生3名を対象に、View System／XMLレイアウト・MVVM基礎のカリキュラムを設計し、週次講義＋ハンズオンでミニアプリ完成まで個別フォロー。
+  
 
 ## 🛠️ Tech Stacks
 <div align="left">
