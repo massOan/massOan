@@ -1,10 +1,8 @@
 # JANG-IKJUN
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=120&text=初めまして,JANG-IKJUNと申します&fontColor=ffffff&fontSize=50" />
-</div>
-
----
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{massOan}?pet-id=1" width="1000" height="120"/>
+</a>
 
 ## 🙋‍♂️ About Me
 通信領域のAndroidエンジニア（実務約3年）です。  
@@ -63,8 +61,3 @@ Jetpack Compose／MVI・MVVM／Clean Architectureを中心に、UI設計から�
 </div>
 
 ---
-
-## 🏅 Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massOan&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-</div>
